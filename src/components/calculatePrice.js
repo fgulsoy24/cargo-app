@@ -209,7 +209,6 @@ class CalculatePrice extends Component {
                           {results.calculatedResults.calculatedResults.price} €
                         </h1>
                         <button
-                          onClick={this.calculatePrice}
                           className="button is-info"
                         >
                           Easy Pay & Send
