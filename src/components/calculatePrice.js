@@ -127,6 +127,7 @@ class CalculatePrice extends Component {
               <div className="column is-two-fifths">
                 <div className="field">
                   <h5 className="title is-5">Weight</h5>
+                  <label className="label"></label>
                   <input
                     className="input is-warning"
                     type="number"
