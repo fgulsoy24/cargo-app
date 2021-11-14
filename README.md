@@ -1,3 +1,15 @@
+# CargoApplication
+The Cargo Application provides cargo price tool front-end
+## The technologies are used:
+- React 17.0.2 
+- Redux
+- Bulma framework
+
+
+# Requirments
+ - npm ^6.14.10 
+
+
 # Welcome Page Section
 <a href="https://ibb.co/mX56gND"><img src="https://i.ibb.co/ZYzW72L/image1.png" alt="image1" border="0"></a>
 
