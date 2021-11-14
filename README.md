@@ -1,3 +1,10 @@
+
+# Calculation Section
+<a href="https://ibb.co/XzFWH6T"><img src="https://i.ibb.co/fCrXJZ7/tool1.png" alt="tool1" border="0"></a>
+
+# Offer & Pay Section
+<a href="https://ibb.co/S3JxC96"><img src="https://i.ibb.co/71bzm6S/tool2.png" alt="tool2" border="0"></a>
+
 ## Available Scripts
 
 In the project directory, you can run:
